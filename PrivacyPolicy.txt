@@ -1,0 +1,42 @@
+# Privacy Policy
+
+
+### **Privacy Policy for LightFrequency423_Auto**
+
+**Last Updated: June 16, 2025**
+
+**1. Introduction**
+
+At **LightFrequency423_Auto**, we are dedicated to safeguarding your privacy. This Privacy Policy outlines how we collect, use, store, and protect your personal data when you use our application.
+
+**2. Information We Collect**
+
+- TikTok public profile data (username, user ID, profile image)
+- Authorization tokens required for video publishing
+    
+    We do **not** collect sensitive personal details beyond what is essential for core service functionality.
+    
+
+**3. Purpose of Data Use**
+
+- Enable TikTok login for authorization via the Login Kit.
+- Publish videos on your behalf through TikTok’s Content Posting API.
+    
+    Your data is **never** sold, rented, or shared with third parties.
+    
+
+**4. Data Storage & Security**
+
+We implement industry-standard security measures, including encrypted storage and secure data handling. Data is retained only for as long as necessary to provide service.
+
+**5. Data Sharing**
+
+We do **not** share your information except as legally required. We do not use your data for targeted advertising.
+
+**6. Your Rights**
+
+You may revoke access at any time via your TikTok account settings. To request deletion of your data, email: semsala@outlook.com
+
+**7. Changes to this Policy**
+
+We reserve the right to update this policy. Revisions will be reflected on this page, and we encourage periodic review.
